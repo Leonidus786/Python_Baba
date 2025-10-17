@@ -1,3 +1,10 @@
 Abhishek
 
 I am a mango man.
+
+
+Today's weather is good.
+
+Day is sunny.
+
+We are using high order operations.
